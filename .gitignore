@@ -1,0 +1,10 @@
+.evn
+__pycache__/
+config/
+data/
+logs/
+modules/
+templates/
+main.py
+walk.py
+requirements.txt
