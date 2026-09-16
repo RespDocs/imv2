@@ -1,6 +1,5 @@
 .evn
 __pycache__/
-config/
 data/
 logs/
 modules/
